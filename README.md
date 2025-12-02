@@ -77,15 +77,24 @@ When I’m not coding, you’ll probably find me:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andreastak86&show_icons=true&theme=ambient_gradient" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Andreastak86&show_icons=true&theme=radical"
+    alt="Andreas' GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Andreastak86&theme=ambient_gradient" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Andreastak86&theme=radical"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreastak86&layout=compact&theme=ambient_gradient" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreastak86&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -93,7 +102,10 @@ When I’m not coding, you’ll probably find me:
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andreastak86&theme=radical&no-frame=true" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Andreastak86&theme=radical&no-frame=true&no-bg=true"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -101,7 +113,10 @@ When I’m not coding, you’ll probably find me:
 ## ✍️ Daily Dev Wisdom
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Dev Quote"
+  />
 </p>
 
 ---
@@ -122,5 +137,8 @@ Got:
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Andreastak86&icon=3&color=6" />
+  <img
+    src="https://profile-counter.glitch.me/Andreastak86/count.svg"
+    alt="Visitor Count"
+  />
 </p>
