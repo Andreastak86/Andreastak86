@@ -1,24 +1,126 @@
-# 💫 About Me:
-👋 Hello there, I'm Andreas Takvam (@Andreastak86)<br>I'm a passionate frontend developer from Norway, crafting web experiences that are both functional and visually appealing. With a background in design, a keen eye for detail, and a love for technology, I'm on a mission to turn ideas into reality using code.<br><br>🔭 What I'm Up To: While I'm already skilled in HTML, CSS, and JavaScript, I'm continuously pushing my boundaries by mastering frameworks like Next.js, Angular, and Vue. I'm also diving deeper into CMS systems, including Sanity.io, WordPress, Squarespace, and WIX to deliver more robust and flexible web solutions.<br><br>🌱 Lifelong Learner: Every day is an opportunity to learn, and I dedicate my time to expanding my skills in modern web development and UX/UI design. I also enjoy sharing knowledge by holding workshops in HTML, CSS, JavaScript, and Figma.<br><br>🤝 Looking to Collaborate: If you're working on a project that involves innovative web technologies, open-source contributions, or simply something fun and challenging, I’d love to connect!<br><br>🎣 Beyond the Screen: When I'm not coding, you'll find me exploring the great outdoors—fishing, hiking, or cruising on a boat. I'm also a big fan of cars and music, and always up for a chat about the latest tracks or classic hits.<br><br>📫 Reach Out: Have a project in mind or just want to say hi? Drop me an email at andreas.takvam@gmail.com or send me a virtual pigeon. 🚀<br><br>Let's make something amazing together! 💡✨<br>
+<h1 align="center">👋 Hi, I'm Andreas</h1>
+<h3 align="center">Fullstack Developer • Frontend Lover • Tech Nerd • Mentor</h3>
 
+<p align="center">
+🇳🇴 Based in Norway • Building things for the web • Where design meets code
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andreastak86&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Andreastak86&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreastak86&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Andreastak86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Andreastak86&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<p align="center">
+🌐 <a href="https://andreastak.no">andreastak.no</a> •
+🐙 <a href="https://github.com/Andreastak86">GitHub</a> •
+📩 <a href="mailto:andreas.takvam@gmail.com">andreas.takvam@gmail.com</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Andreastak86&icon=3&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Who am I?
+
+I’m a **fullstack developer with a frontend heart** and a brain that rarely goes into sleep mode.  
+I love building things that **feel good to use, look good to the eye, and make sense under the hood**.
+
+My daily playground includes:
+- ⚡ **React, Next.js & TypeScript**
+- 🎨 **UI/UX, design systems & accessibility**
+- 🗄️ **APIs, databases & backend logic**
+- 🧪 **Experimentation, teaching & learning**
+
+I also run workshops and mentor people into tech — helping others grow is a core part of what I do ❤️
+
+When I’m not coding, you’ll probably find me:
+🎣 fishing • 🚤 boating • 🚗 car-nerding • 🎵 music • 🛠 unnecessary side-projects  
+
+> _I don’t just build projects — I build skills, in myself and in others._
+
+---
+
+## 🧰 Tech Stack (with proper nerd-bling)
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+![Svelte](https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte)
+
+### 🧠 Backend & Data
+![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+
+### 🎨 Design & Creative
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva)
+![Blender](https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender)
+![GIMP](https://img.shields.io/badge/GIMP-000?style=for-the-badge&logo=gimp)
+![Krita](https://img.shields.io/badge/Krita-000?style=for-the-badge&logo=krita)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![PowerShell](https://img.shields.io/badge/PowerShell-000?style=for-the-badge&logo=powershell)
+![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-000?style=for-the-badge&logo=raspberrypi)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreastak86&show_icons=true&theme=ambient_gradient" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Andreastak86&theme=ambient_gradient" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreastak86&layout=compact&theme=ambient_gradient" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andreastak86&theme=radical&no-frame=true" />
+</p>
+
+---
+
+## ✍️ Daily Dev Wisdom
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🤝 Want to build something cool together?
+
+Got:
+- an idea?
+- a project?
+- a slightly insane prototype at 02:34 AM?
+- or just want to nerd out?
+
+📩 **andreas.takvam@gmail.com**  
+🌐 **https://andreastak.no**
+
+> _“Slightly better than yesterday” is my favorite metric._
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Andreastak86&icon=3&color=6" />
+</p>
