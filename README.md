@@ -85,7 +85,7 @@ When I’m not coding, you’ll probably find me:
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Andreastak86&theme=radical"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=Andreastak86&theme=radical"
     alt="GitHub Streak"
   />
 </p>
