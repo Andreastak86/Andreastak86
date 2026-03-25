@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Andreas Takvam</h1>
-<h3 align="center">Interdisciplinary Developer • Technical Project Lead • Cloud Enthusiast • Mentor</h3>
+<h1 align="center">👋 Hei, jeg er Andreas Takvam</h1>
+<h3 align="center">Tverrfaglig utvikler • Teknisk prosjektleder • Sky-entusiast • Mentor</h3>
 
 <p align="center">
-🇳🇴 Based in Bergen, Norway • Bridging the gap between complex data and intuitive design
+🇳🇴 Basert i Bergen, Norge • Brobygger mellom komplekse data og intuitivt design
 </p>
 
 <p align="center">
@@ -13,34 +13,39 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Om meg
 
-I am a developer and project lead with a strong focus on **delivery power, human insight, and technical craftsmanship**. I thrive in the intersection where complex business logic meets user-friendly interfaces.
+Jeg er en utvikler og prosjektleder med sterk fokus på **leveransekraft, menneskeforståelse og teknisk håndverk**. Jeg trives i skjæringspunktet der kompleks forretningslogikk møter brukervennlige grensesnitt.
 
-* 🏗️ **Architecting with Next.js & TypeScript:** Building robust, type-safe web applications.
-* ☁️ **Cloud & Infrastructure:** Hands-on experience with **GCP, Azure, and AWS** — taking projects from local dev to production.
-* 📊 **Data-Driven Solutions:** Leveraging **Python (FastAPI, Pandas)** to turn data into actionable insights.
-* 🤝 **Mentorship with Impact:** I take pride in my role as a mentor, maintaining a **40% success rate** in helping candidates with complex needs transition into tech roles.
+* 🏗️ **Arkitektur med Next.js & TypeScript:** Bygger robuste, type-sikre webapplikasjoner.
+* ☁️ **Sky og infrastruktur:** Praktisk erfaring med **GCP, Azure og AWS** — fra lokal utvikling til produksjon.
+* 📊 **Datadrevne løsninger:** Bruker **Python (FastAPI, Pandas)** for å gjøre data om til handlingsrettede innsikter.
+* 🤝 **Mentoring med resultat:** Jeg er stolt av min rolle som mentor, og har veiledet kandidater med sammensatte utfordringer over i tech-bransjen — der 4 av 10 av de tøffeste sakene har lyktes med å komme i jobb.
 
-> *"I don't just write code — I build sustainable solutions for people and organizations."*
+> *"Jeg skriver ikke bare kode — jeg bygger bærekraftige løsninger for mennesker og organisasjoner."*
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Utvalgte prosjekter
 
-### Varegg Arena Digital Platform
-* **Role:** Project Lead & Developer
-* **The Work:** Developed a unified digital ecosystem for a major sports arena, managing everything from **Webflow/WordPress** development to **IT infrastructure and networking**.
-* **Impact:** Implemented digital signage systems with automated advertising content exposed on national TV.
+### Varegg Arena — Digital plattform
+* **Rolle:** Prosjektleder & utvikler
+* **Arbeidet:** Utviklet et samlet digitalt økosystem for en større idrettsarena, med ansvar for alt fra **Webflow/WordPress-utvikling** til **IT-infrastruktur og nettverk**.
+* **Resultat:** Implementerte digitale skjermløsninger med automatisert reklamecontent eksponert på riksdekkende TV.
 
-### Cloud-Architecture & Deployment
-* **Focus:** Fullstack deployment
-* **The Work:** Responsible for the architecture, hosting, and deployment of complex client solutions using **Google Cloud Platform (GCP)**.
+### Digital informasjonsplattform — Forsikringsbransjen
+* **Rolle:** Utvikler
+* **Arbeidet:** Utviklet og leverte en skreddersydd digital plattform for en aktør i forsikringsbransjen, med fokus på ytelse, brukervennlighet og skalerbarhet.
+* **Tech:** Next.js, Sanity CMS, GCP.
+
+### Sky-arkitektur & deployment
+* **Fokus:** Fullstack-deployment
+* **Arbeidet:** Ansvarlig for arkitektur, hosting og deployment av komplekse klientløsninger i **Google Cloud Platform (GCP)**.
 * **Tech:** Next.js, Docker, GCP App Engine/Cloud Run.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Teknologistack
 
 ### 💻 Frontend & Design
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
@@ -50,7 +55,7 @@ I am a developer and project lead with a strong focus on **delivery power, human
 ![Webflow](https://img.shields.io/badge/Webflow-000?style=for-the-badge&logo=webflow)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 
-### 🧠 Backend & Cloud
+### 🧠 Backend & Sky
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
@@ -61,30 +66,30 @@ I am a developer and project lead with a strong focus on **delivery power, human
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub-statistikk
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andreastak86&show_icons=true&theme=radical" alt="Andreas' GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreastak86&show_icons=true&theme=radical" alt="Andreas sin GitHub-statistikk" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreastak86&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreastak86&layout=compact&theme=radical" alt="Mest brukte språk" />
 </p>
 
 ---
 
-## 🛠️ Beyond the Screen
-When I'm not architecting cloud solutions or mentoring, I'm likely:
-- 🐧 **Linux Enthusiast:** Breathing new life into old hardware by installing custom Linux distros for home servers.
-- 🚤 **Out on the water:** Fishing and boating in the beautiful fjords of Western Norway.
-- 👨‍👩‍👧‍👦 **Family first:** Dedicated husband and father, building a future one commit at a time.
+## 🛠️ Utenom skjermen
+Når jeg ikke arkitekterer skyløsninger eller veileder andre, er jeg gjerne:
+- 🐧 **Linux-entusiast:** Gir gammelt maskinvare nytt liv ved å installere egne Linux-distroes for hjemmeservere.
+- 🚤 **Ute på sjøen:** Fisking og båtliv i vakre vestlandsfjorder.
+- 👨‍👩‍👧‍👦 **Familie først:** Dedikert ektemann og far — bygger fremtiden én commit av gangen.
 
 ---
 
-## 🤝 Let's Connect
-Whether you want to discuss **modern frontend challenges**, cloud architecture, or the best Linux distro for an old ThinkPad — my inbox is always open.
+## 🤝 Ta kontakt
+Enten du vil diskutere **moderne frontend-utfordringer**, skyarkitektur, eller den beste Linux-distroen til en gammel ThinkPad — innboksen min er alltid åpen.
 
 📩 **andreas.takvam@gmail.com**
 🔗 **[LinkedIn](https://www.linkedin.com/in/andreas-takvam-623068a4)**
 
-> _"Better than yesterday" is my only metric._
+> _"Bedre enn i går er mitt eneste mål."_
