@@ -15,14 +15,14 @@
 
 ## 🧠 Om meg
 
-Jeg er en utvikler og prosjektleder med sterk fokus på **leveransekraft, menneskeforståelse og teknisk håndverk**. Jeg trives i skjæringspunktet der kompleks forretningslogikk møter brukervennlige grensesnitt.
+Jeg jobber ofte i skjæringspunktet mellom teknologi, forretning og mennesker, og trives med ansvar fra idé til ferdig løsning.
 
 * 🏗️ **Arkitektur med Next.js & TypeScript:** Bygger robuste, type-sikre webapplikasjoner.
 * ☁️ **Sky og infrastruktur:** Praktisk erfaring med **GCP, Azure og AWS** — fra lokal utvikling til produksjon.
 * 📊 **Datadrevne løsninger:** Bruker **Python (FastAPI, Pandas)** for å gjøre data om til handlingsrettede innsikter.
-* 🤝 **Mentoring med resultat:** Jeg er stolt av min rolle som mentor, og har veiledet kandidater med sammensatte utfordringer over i tech-bransjen — der 4 av 10 av de tøffeste sakene har lyktes med å komme i jobb.
+* 🤝 **Mentoring med resultat:** Jeg er stolt av min rolle som mentor, og har veiledet kandidater med sammensatte utfordringer over i tech-bransjen — hvor omtrent 40 % har kommet ut i jobb.
 
-> *"Jeg skriver ikke bare kode — jeg bygger bærekraftige løsninger for mennesker og organisasjoner."*
+> *"Jeg er opptatt av å bygge løsninger som faktisk fungerer over tid."*
 
 ---
 
@@ -30,13 +30,13 @@ Jeg er en utvikler og prosjektleder med sterk fokus på **leveransekraft, mennes
 
 ### Varegg Arena — Digital plattform
 * **Rolle:** Prosjektleder & utvikler
-* **Arbeidet:** Utviklet et samlet digitalt økosystem for en større idrettsarena, med ansvar for alt fra **Webflow/WordPress-utvikling** til **IT-infrastruktur og nettverk**.
-* **Resultat:** Implementerte digitale skjermløsninger med automatisert reklamecontent eksponert på riksdekkende TV.
+* **Arbeidet:** Utviklet et samlet digitalt økosystem for en større idrettsarena, med ansvar for alt fra **Webflow-utvikling** til **IT-infrastruktur og nettverk**.
+* **Resultat:** Implementerte digitale skjermløsninger med automatisert reklameinnhold eksponert på riksdekkende TV.
 
 ### Digital informasjonsplattform — Forsikringsbransjen
 * **Rolle:** Utvikler
 * **Arbeidet:** Utviklet og leverte en skreddersydd digital plattform for en aktør i forsikringsbransjen, med fokus på ytelse, brukervennlighet og skalerbarhet.
-* **Tech:** Next.js, Sanity CMS, GCP.
+* **Tech:** Next.js, Typescript, Sanity CMS.
 
 ### Sky-arkitektur & deployment
 * **Fokus:** Fullstack-deployment
@@ -79,9 +79,9 @@ Jeg er en utvikler og prosjektleder med sterk fokus på **leveransekraft, mennes
 ---
 
 ## 🛠️ Utenom skjermen
-Når jeg ikke arkitekterer skyløsninger eller veileder andre, er jeg gjerne:
+Når jeg ikke jobber med sky og utvikling, er jeg gjerne:
 - 🐧 **Linux-entusiast:** Gir gammelt maskinvare nytt liv ved å installere egne Linux-distroes for hjemmeservere.
-- 🚤 **Ute på sjøen:** Fisking og båtliv i vakre vestlandsfjorder.
+- 🚤 **Ute på sjøen:** Fisking og båtliv i vakre Bjørnafjorden.
 - 👨‍👩‍👧‍👦 **Familie først:** Dedikert ektemann og far — bygger fremtiden én commit av gangen.
 
 ---
