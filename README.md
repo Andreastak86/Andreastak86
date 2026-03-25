@@ -81,8 +81,10 @@ When I'm not architecting cloud solutions or mentoring the next generation of de
 
 ---
 
+---
+
 ## 🤝 Let's Connect
-Whether you want to discuss **ScaleAQ's latest frontend challenges**, cloud architecture, or the best Linux distro for an old ThinkPad — my inbox is always open.
+Whether you want to discuss **modern frontend challenges**, cloud architecture, or the best Linux distro for an old ThinkPad — my inbox is always open.
 
 📩 **andreas.takvam@gmail.com**
 🔗 **[LinkedIn](https://www.linkedin.com/in/andreas-takvam-623068a4)**
